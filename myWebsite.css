@@ -1,0 +1,54 @@
+table {
+  border: 10px solid;
+  margin: 20px;
+  border-radius: 20%;  
+  cursor: pointer;
+  transition-duration: 0.4s;
+  text-decoration: none;
+  display: inline-block;
+  border-color: purple;
+  font-size: 16px;
+}
+
+html {
+  background-color: orange;
+}
+a {
+  border: solid;
+  color: white;
+  padding: 12px 12px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 30%;
+  border-color: purple;
+  margin: 10px;
+  align-content: center;
+}
+hr {
+  color: blue;
+  border: 5px solid #00FF00;
+}
+h1 {
+  vertical-align: center;
+  margin: 10px;
+  color: blue;
+  font-style: italic;
+  font-weight: 100;
+}
+p {
+ vertical-align: center;
+ color: blue;
+ font-style: bold;
+ font-weight: 100%;
+}
+a:hover {
+  background-color: blue;
+}
+table:hover {
+  background-color: #FFA672;
+}
